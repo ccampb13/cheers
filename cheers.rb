@@ -14,3 +14,4 @@ name.each_char do |char|
     puts "Give me a... #{char}"
   end
 end
+  puts "#{name}\'s just GRAND!"
